@@ -1,0 +1,32 @@
+
+
+<form [formGroup]="updateTaskForm" *ngIf="viewFormUpdateTask" class="formsFormat" (ngSubmit)="onSubmitUpdateTask()">
+    <div>
+        <input type="text" name="userId" id="userId" formControlName="userId" required />
+        <label for="userId">Id del usuario</label>
+    </div>
+    <div>
+        <input type="text" name="title" id="title" formControlName="title" required />
+        <label for="title">Nombre de la tarea</label>
+    </div>
+    <div>
+        <input type="text" name="details" id="details" formControlName="details" required />
+        <label for="details">Detalles de la tarea</label>
+    </div>
+    <div>
+        <input type="date" name="expirationDate" id="expirationDate" formControlName="expirationDate" required />
+        <label for="expirationDate">Fecha de expiración</label>
+    </div>    
+    <div>
+        <label for="importance">Prioridad:</label>
+        <select id="importance" name="importance" formControlName="importance" required>
+            <option value="baja">baja</option>
+            <option value="media">media</option>
+            <option value="alta">alta</option>
+        </select>
+        
+    </div>
+    <div><button class="save" type="submit">Guardar</button></div>
+    
+  </form>
+  

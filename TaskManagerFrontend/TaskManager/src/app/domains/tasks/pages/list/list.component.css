@@ -1,0 +1,47 @@
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding-left: 20px;
+    border: 1px solid #300909;
+    border-radius: 10px;
+    padding: 20px 30px;
+    background-color: #d7e9e9be;
+}
+
+.newTaskChild{  
+}
+
+.taskListTitle{
+    margin: 10px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-shadow: 2px 2px 3px rgba(70, 66, 66, 0.361)  
+      
+}
+
+.filters {
+    list-style-type: none; /* Quita las viñetas */
+    padding-left: 150px;
+    padding-bottom: 10px;
+    display: inline-block;
+    margin: 0;
+  }
+  
+  .filters li {
+    display: inline; /* Para mostrar los elementos horizontalmente */
+    margin-right: 10px; /* Espaciado entre elementos */
+  }
+  
+  .filters li a {
+    text-decoration: none; /* Quita la subrayado de los enlaces */
+    font-weight: bold; /* Fuente en negrita */
+    font-size: 16px; /* Tamaño de letra personalizado */
+    color: #134698; /* Color del texto */
+  }
+  
+  .filters li a:hover {
+    color: #000000; /* Cambia el color del texto al pasar el mouse */
+    cursor: pointer ; /* Cambia el cursor al pasar el mouse */
+
+  }
+  

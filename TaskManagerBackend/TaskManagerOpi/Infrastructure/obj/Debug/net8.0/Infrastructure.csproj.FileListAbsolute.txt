@@ -1,0 +1,40 @@
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\bin\Debug\net8.0\Application.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\bin\Debug\net8.0\Application.pdb
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\bin\Debug\net8.0\Application.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\bin\Debug\net8.0\Application.pdb
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

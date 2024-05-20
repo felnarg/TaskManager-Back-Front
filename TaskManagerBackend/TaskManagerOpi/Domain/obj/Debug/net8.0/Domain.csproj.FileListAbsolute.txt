@@ -1,0 +1,26 @@
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Domain\bin\Debug\net8.0\Domain.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Domain\bin\Debug\net8.0\Domain.pdb
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\Domain.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\Domain.pdb
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Domain\bin\Debug\net8.0\Domain.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Domain\bin\Debug\net8.0\Domain.pdb
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\Domain.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\Domain.pdb
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,26 @@
+<div class="container">
+    <div class="column column1">
+        <input class="taskCheckbox taskBodyElement" 
+        type="checkbox" 
+        name="taskCheckbox"
+        [checked]="task.status"
+        (change)="toggleCheckbox()"/>
+    </div>
+    
+    <div class="column column2">
+        <h4 class="title" [class.checked]="task.status">{{task.title}}</h4> 
+        <app-update-task (updateTaskChanged)="emitUpdateTask()" [viewFormUpdateTask]="viewFormUpdateTask" [updateTaskData]="task"></app-update-task>
+        <h6 class="date">Fecha de exp: {{task.expirationDate | date:'mediumDate'}}</h6>
+    </div>
+    
+    <div class="column column3">
+        <button class="button" (click)="updateTaskHandler()"><img 
+            src="https://static.vecteezy.com/system/resources/thumbnails/000/330/430/small/2_-_1_-_Pencil.jpg" class="icons"></button>        
+    </div>
+
+    <div class="column column4">
+        <button class="button" (click)="DeleteTaskHandler()"><img 
+            src="https://static.vecteezy.com/system/resources/thumbnails/004/581/271/small/trash-can-icon-garbage-bin-with-lid-delete-symbol-illustration-free-vector.jpg" class="icons"></button>
+    </div>    
+</div>
+

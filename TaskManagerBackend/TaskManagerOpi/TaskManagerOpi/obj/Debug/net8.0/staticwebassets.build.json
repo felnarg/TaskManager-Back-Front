@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/+drkrHmA4rrbhRFta7Hg8rHWQRdqEenCx61ipP0fXI=",
+  "Source": "TaskManagerOpi",
+  "BasePath": "_content/TaskManagerOpi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,26 @@
+<div class="container">
+    <div> 
+        <label for="notificationPreference">Cambiar preferencia de notificación:</label>
+        <select id="notificationPreference" name="notificationPreference" (change)="notificationPreferenceChange($event.target)" required>
+            <option value="0">1 hora</option>
+            <option value="1">1 día</option>
+            <option value="2">1 semana</option>
+        </select>        
+    </div>
+    <button (click)="viewFormNewTask = !viewFormNewTask">Crear tarea</button>
+    <app-new-task (newTaskChanged)="onTaskChanged()" [viewFormNewTask]="viewFormNewTask"></app-new-task> 
+    <h1 class="taskListTitle">Lista de tareas</h1>
+
+    <div class="containerFilter">
+        <ul class="filters">
+            <li><a (click)="changeFilter('all')"> Todas </a></li>
+            <li><a (click)="changeFilter('low')"> Baja </a></li>
+            <li><a (click)="changeFilter('medium')"> Media </a></li>
+            <li><a (click)="changeFilter('high')"> Alta </a></li>
+        </ul>
+    </div>
+
+    <app-task (taskChanged)="onTaskChanged()" class="newTaskChild" *ngFor="let task of tasksByFilter()" [task]="task" 
+        (updateTask)="updateTaskParent($event)"/>    
+</div>
+

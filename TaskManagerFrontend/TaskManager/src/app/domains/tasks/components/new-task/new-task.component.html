@@ -1,0 +1,37 @@
+
+<form [formGroup]="newTaskForm" (ngSubmit)="onSubmitCreateTask()" *ngIf="viewFormNewTask" class="formsFormat">
+    <div>
+        <input class="inputFormat" type="text" id="userId"  formControlName="userId" required />
+        <label for="userId">Id de usuario</label>
+    </div>
+    <div>
+        <input class="inputFormat" type="text" id="title" formControlName="title" required />
+        <label for="title">Nombre de la tarea</label>
+    </div>
+    <div>
+        <input class="inputFormat" type="text" id="details" formControlName="details" required />
+        <label for="details">Detalles de la tarea</label>
+    </div>
+    <div>
+        <div>
+            <input class="inputFormat" type="date" id="expirationDate" formControlName="expirationDate" required />
+            <label for="expirationDate">Fecha de expiración</label>
+        </div>
+        <div>
+            <label for="status">Estado de la tarea:</label>
+            <select id="status" name="status" formControlName="status" required>
+                <option value="activa">Activa</option>
+                <option value="inactiva">Inactiva</option>
+            </select>
+        </div>
+        <div>
+            <label for="importance">Prioridad:</label>
+            <select id="importance" name="importance" formControlName="importance" required>
+                <option value="baja">baja</option>
+                <option value="media">media</option>
+                <option value="alta">alta</option>
+            </select>
+        </div>
+    </div>
+    <button type="submit">Guardar</button>
+  </form>

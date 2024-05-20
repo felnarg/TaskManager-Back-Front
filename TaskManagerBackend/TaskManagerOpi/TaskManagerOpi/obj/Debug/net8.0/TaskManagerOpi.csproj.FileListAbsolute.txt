@@ -1,0 +1,244 @@
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.csproj.AssemblyReference.cache
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.GeneratedMSBuildEditorConfig.editorconfig
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.AssemblyInfoInputs.cache
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.AssemblyInfo.cs
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.csproj.CoreCompileInputs.cache
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.MvcApplicationPartsAssemblyInfo.cs
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.MvcApplicationPartsAssemblyInfo.cache
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\appsettings.Development.json
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\appsettings.json
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\TaskManagerOpi.exe
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\TaskManagerOpi.deps.json
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\TaskManagerOpi.runtimeconfig.json
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\TaskManagerOpi.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\TaskManagerOpi.pdb
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Application.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Domain.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Infrastructure.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Infrastructure.pdb
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Application.pdb
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Domain.pdb
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\staticwebassets.build.json
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\staticwebassets.development.json
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagerOpi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagerOpi.props
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagerOpi.props
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagerOpi.props
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\scopedcss\bundle\TaskManagerOpi.styles.css
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskMana.B0D39CD6.Up2Date
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\refint\TaskManagerOpi.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.pdb
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.genruntimeconfig.cache
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\ref\TaskManagerOpi.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Humanizer.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.CodeDom.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.sourcelink.json
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\SendGrid.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\StarkbankEcdsa.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\appsettings.Development.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\appsettings.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\TaskManagerOpi.exe
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\TaskManagerOpi.deps.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\TaskManagerOpi.runtimeconfig.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\TaskManagerOpi.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\TaskManagerOpi.pdb
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Humanizer.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\SendGrid.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\StarkbankEcdsa.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.CodeDom.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Application.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Domain.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Infrastructure.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Infrastructure.pdb
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Application.pdb
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\bin\Debug\net8.0\Domain.pdb
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.csproj.AssemblyReference.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.GeneratedMSBuildEditorConfig.editorconfig
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.AssemblyInfoInputs.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.AssemblyInfo.cs
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.csproj.CoreCompileInputs.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.MvcApplicationPartsAssemblyInfo.cs
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.MvcApplicationPartsAssemblyInfo.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.sourcelink.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\staticwebassets.build.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\staticwebassets.development.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagerOpi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagerOpi.props
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagerOpi.props
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagerOpi.props
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\scopedcss\bundle\TaskManagerOpi.styles.css
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskMana.B0D39CD6.Up2Date
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\refint\TaskManagerOpi.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.pdb
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\TaskManagerOpi.genruntimeconfig.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\TaskManagerOpi\obj\Debug\net8.0\ref\TaskManagerOpi.dll

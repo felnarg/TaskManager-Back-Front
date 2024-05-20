@@ -1,0 +1,59 @@
+.checked {
+    text-decoration: line-through;
+  }
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.taskCheckbox{
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+.column{
+    flex: 1;
+    margin-right: 10px;
+}
+
+.column1,
+.column3,
+.column4{
+    max-width: 25px;
+}
+
+.button{
+    max-width: 20px;
+    max-height: 20px; 
+    margin-top: 20px;  
+    padding: 0;
+}
+
+.column2{    
+    border: 1px solid #05258f;
+    padding-left: 10px;
+    border-radius: 10px;
+    padding-right: 10px;
+    background-color: azure;
+}
+.date{
+    margin: 0;
+}
+
+.title{
+    margin: 0;
+    padding-bottom: 2px;;
+}
+
+.icons{
+    max-width: 20px;
+    max-height: 20px;
+    border-radius: 10px;
+    border: 1px solid #000000;
+}
+
+.container{
+    padding-bottom: 3px;
+}
+  

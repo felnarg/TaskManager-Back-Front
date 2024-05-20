@@ -1,0 +1,36 @@
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\bin\Debug\net8.0\Application.deps.json
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\bin\Debug\net8.0\Application.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\bin\Debug\net8.0\Application.pdb
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\refint\Application.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.pdb
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\ref\Application.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\bin\Debug\net8.0\Domain.dll
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\bin\Debug\net8.0\Domain.pdb
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application._Resources.Resource1.resources
+D:\OPI\TaskManager\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.csproj.GenerateResource.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\bin\Debug\net8.0\Application.deps.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\bin\Debug\net8.0\Application.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\bin\Debug\net8.0\Application.pdb
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\bin\Debug\net8.0\Domain.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\bin\Debug\net8.0\Domain.pdb
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application._Resources.Resource1.resources
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.csproj.GenerateResource.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\refint\Application.dll
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\Application.pdb
+D:\OPI\TaskManager Backend\TaskManagerOpi\TaskManagerOpi\Application\obj\Debug\net8.0\ref\Application.dll
